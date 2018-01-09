@@ -8,3 +8,11 @@
 - Starting with KSS
 
 [Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
+
+### Day 1: January 09, 2018 - [Starter project]
+
+**Today's Progress**:
+
+- Finished adding KSS - [commit](https://github.com/maliMirkec/starter-project/commit/6c6db243ea43b22ee82363a55bbff7f853cb7255)
+
+[Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
