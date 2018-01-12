@@ -21,4 +21,18 @@
 
 - Finished adding JsDoc - [commit](https://github.com/maliMirkec/starter-project/commit/0a140b3fc5def5c0eb3188e38e41aa8eb7851bd0)
 
+### Day 3: January 11, 2018 - [Skewing Web Template]
+
+**Today's Progress**:
+
+- Adding new Skewing Web Template - [link](https://codepen.io/CiTA/pen/rpdaZe)
+
+### Day 4: January 12, 2018 - [Starter project]
+
+**Today's Progress**:
+
+- Publishing Starter Project as npm package - [link](https://www.npmjs.com/package/starter-project)
+- Starting to write documentation for Starter Project - [link](https://github.com/maliMirkec/starter-project/blob/master/README.md)
+
 [Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
+[Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
