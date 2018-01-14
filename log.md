@@ -34,5 +34,11 @@
 - Publishing Starter Project as npm package - [link](https://www.npmjs.com/package/starter-project)
 - Starting to write documentation for Starter Project - [link](https://github.com/maliMirkec/starter-project/blob/master/README.md)
 
+### Day 5: January 13, 2018 - Fail
+
+**Today's Progress**:
+
+- Nothing to report
+
 [Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
