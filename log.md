@@ -40,5 +40,14 @@
 
 - Nothing to report
 
+### Day 6: January 14, 2018 - [CiTA]
+
+**Today's Progress**:
+
+- Switched company's website to Starter Project - [commit](https://github.com/maliMirkec/cita/commit/ae70e2b82d69d7f8a76c18dabe7a5af355419b37)
+- Live site: https://www.cita.hr
+- Perfect PageSpeed Insights score: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.cita.hr%2F&tab=mobile
+
 [Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
+[CiTA]: https://github.com/maliMirkec/cita
