@@ -48,6 +48,12 @@
 - Live site: https://www.cita.hr
 - Perfect PageSpeed Insights score: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.cita.hr%2F&tab=mobile
 
+### Day 7: January 15, 2018 - [Starter Project]
+
+**Today's Progress**:
+
+- Adding signature and updating index site - [commit](https://github.com/maliMirkec/starter-project/commit/434ec1fa9ecd5f9c5c1d5f24f533c188847a5dca)
+
 [Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
 [CiTA]: https://github.com/maliMirkec/cita
