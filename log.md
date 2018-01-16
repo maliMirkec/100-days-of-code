@@ -54,6 +54,13 @@
 
 - Adding signature and updating index site - [commit](https://github.com/maliMirkec/starter-project/commit/434ec1fa9ecd5f9c5c1d5f24f533c188847a5dca)
 
+### Day 8: January 16, 2018 - [Starter Project]
+
+**Today's Progress**:
+
+- Adding project structure
+- Updating npm postinstall scripts - [commit](https://github.com/maliMirkec/starter-project/commit/6ba8117af6c998a289c5f9a0e6b7028a86733131)
+
 [Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
 [CiTA]: https://github.com/maliMirkec/cita
