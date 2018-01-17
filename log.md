@@ -61,6 +61,14 @@
 - Adding project structure
 - Updating npm postinstall scripts - [commit](https://github.com/maliMirkec/starter-project/commit/6ba8117af6c998a289c5f9a0e6b7028a86733131)
 
+### Day 9: January 17, 2018 - [Starter Project]
+
+**Today's Progress**:
+
+- Updating SassDoc
+- Updating JSDoc
+- Updating Gulp tasks - [commit](https://github.com/maliMirkec/starter-project/commit/d9921b2bc64a0765a5e01a746664de404737253c)
+
 [Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
 [CiTA]: https://github.com/maliMirkec/cita
