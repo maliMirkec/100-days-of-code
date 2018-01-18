@@ -69,6 +69,15 @@
 - Updating JSDoc
 - Updating Gulp tasks - [commit](https://github.com/maliMirkec/starter-project/commit/d9921b2bc64a0765a5e01a746664de404737253c)
 
+### Day 10: January 18, 2018 - [Starter Project]
+
+**Today's Progress**:
+
+- Documenting every library
+- Updating and fixing build scripts
+- Cleaning up unused files
+- Updating Styleguide - [commit](https://github.com/maliMirkec/starter-project/commit/ca9df85900e2b5345d27329bcc99f172c97c89cc)
+
 [Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
 [CiTA]: https://github.com/maliMirkec/cita
