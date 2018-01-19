@@ -73,10 +73,17 @@
 
 **Today's Progress**:
 
-- Documenting every library
+- Documenting dependencies
 - Updating and fixing build scripts
 - Cleaning up unused files
 - Updating Styleguide - [commit](https://github.com/maliMirkec/starter-project/commit/ca9df85900e2b5345d27329bcc99f172c97c89cc)
+
+### Day 11: January 19, 2018 - [Starter Project]
+
+**Today's Progress**:
+
+- Adding install scripts for Windows users (Yaay!)
+- Updating postinstall scripts - [commit](https://github.com/maliMirkec/starter-project/commit/ddb539b20e594f8aff2fc7b0682cf4f39ce2f941)
 
 [Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
