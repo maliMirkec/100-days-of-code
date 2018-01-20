@@ -85,6 +85,14 @@
 - Adding install scripts for Windows users (Yaay!)
 - Updating postinstall scripts - [commit](https://github.com/maliMirkec/starter-project/commit/ddb539b20e594f8aff2fc7b0682cf4f39ce2f941)
 
+### Day 12: January 20, 2018 - [Starter Project]
+
+**Today's Progress**:
+
+- Updating configuration
+- Updating Gulp tasks
+- Updating postinstall scripts - [commit](https://github.com/maliMirkec/starter-project/commit/2e5267cdf229807452751168addc9fe2f2902259)
+
 [Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
 [CiTA]: https://github.com/maliMirkec/cita
