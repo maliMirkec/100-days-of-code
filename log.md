@@ -93,6 +93,15 @@
 - Updating Gulp tasks
 - Updating postinstall scripts - [commit](https://github.com/maliMirkec/starter-project/commit/2e5267cdf229807452751168addc9fe2f2902259)
 
-[Starter project]: https://github.com/maliMirkec/starter-project/tree/develop
+### Day 13: January 21, 2018 - [Hexo theme SB]
+
+**Today's Progress**:
+
+- Installing [Starter Project]
+- Configuring project
+- Updating existing templates to pug - [commit](https://github.com/maliMirkec/hexo-theme-sb/commit/e7b41ebf745219c96791db6caf941db912ddafb4)
+
+[Starter project]: https://www.npmjs.com/package/starter-project
+[Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
 [CiTA]: https://github.com/maliMirkec/cita
