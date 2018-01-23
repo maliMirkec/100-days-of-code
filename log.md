@@ -101,6 +101,12 @@
 - Configuring project
 - Updating existing templates to pug - [commit](https://github.com/maliMirkec/hexo-theme-sb/commit/e7b41ebf745219c96791db6caf941db912ddafb4)
 
+### Day 14: January 22, 2018 - [Hexo theme SB]
+
+**Today's Progress**:
+
+- Updating and cleaning up templates - [commit](https://github.com/maliMirkec/hexo-theme-sb/commit/8a060e948d31ab66649f85adb8366a786c9892da)
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
