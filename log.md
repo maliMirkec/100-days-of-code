@@ -125,4 +125,5 @@ Today's Progress:
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
+[Custom navigation with pure CSS mobile toggle]: https://codepen.io/CiTA/full/mpYMJP
 [CiTA]: https://github.com/maliMirkec/cita
