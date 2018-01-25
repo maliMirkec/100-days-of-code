@@ -107,6 +107,21 @@
 
 - Updating and cleaning up templates - [commit](https://github.com/maliMirkec/hexo-theme-sb/commit/8a060e948d31ab66649f85adb8366a786c9892da)
 
+Day 15 of #100DaysOfCode: January 23, 2018 - [Hexo theme SB]
+
+Today's Progress:
+
+- Updating configuration
+- Working on CSS
+- Updating and cleaning up templates - commit (https://github.com/maliMirkec/hexo-theme-sb/commit/4fa58617afd792906e19c61858c6cbd162b89aac)
+
+
+### Day 16: January 24, 2018 - [Custom navigation with pure CSS mobile toggle]
+
+**Today's Progress**:
+
+- Creating new pen: "Custom navigation with pure CSS mobile toggle"
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
