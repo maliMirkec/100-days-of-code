@@ -115,15 +115,23 @@ Today's Progress:
 - Working on CSS
 - Updating and cleaning up templates - commit (https://github.com/maliMirkec/hexo-theme-sb/commit/4fa58617afd792906e19c61858c6cbd162b89aac)
 
-
 ### Day 16: January 24, 2018 - [Custom navigation with pure CSS mobile toggle]
 
 **Today's Progress**:
 
 - Creating new pen: "Custom navigation with pure CSS mobile toggle"
 
+### Day 17: January 25, 2018 - [Personal Website Redesign]
+
+**Today's Progress**:
+
+- Starting to develop new theme for personal website using [Starter Project]
+- Fixing template issues
+- Updating style - commit (https://github.com/maliMirkec/hexo-sb/commit/c43165d8693fe913046ae9495bfa401ed36c7185)
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
 [Custom navigation with pure CSS mobile toggle]: https://codepen.io/CiTA/full/mpYMJP
 [CiTA]: https://github.com/maliMirkec/cita
+[Personal Website Redesign]: https://feature-starter-project--silvestarbistrovic.netlify.com/
