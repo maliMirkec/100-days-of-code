@@ -107,7 +107,7 @@
 
 - Updating and cleaning up templates - [commit](https://github.com/maliMirkec/hexo-theme-sb/commit/8a060e948d31ab66649f85adb8366a786c9892da)
 
-Day 15 of #100DaysOfCode: January 23, 2018 - [Hexo theme SB]
+### Day 15 of #100DaysOfCode: January 23, 2018 - [Hexo theme SB]
 
 Today's Progress:
 
@@ -125,4 +125,5 @@ Today's Progress:
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
+[Custom navigation with pure CSS mobile toggle]: https://codepen.io/CiTA/full/mpYMJP
 [CiTA]: https://github.com/maliMirkec/cita
