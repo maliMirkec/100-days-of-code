@@ -129,6 +129,13 @@ Today's Progress:
 - Fixing template issues
 - Updating style - commit (https://github.com/maliMirkec/hexo-sb/commit/c43165d8693fe913046ae9495bfa401ed36c7185)
 
+### Day 18: January 26, 2018 - [Personal Website Redesign]
+
+**Today's Progress**:
+
+- Fixing black SVG issues
+- Making redesign, iteration #2 - commit (https://github.com/maliMirkec/hexo-sb/commit/d2f5504f5dc1807502c8a39466c1d5d338108ed1)
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
