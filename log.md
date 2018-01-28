@@ -143,6 +143,14 @@ Today's Progress:
 - Adding new home page
 - Polishing new design - commit (https://github.com/maliMirkec/hexo-sb/commit/ae35f03d166db442f09ca043fedd89c91ada22f0)
 
+### Day 20: January 28, 2018 - [Personal Website Redesign]
+
+**Today's Progress**:
+
+- Finishing with redesign
+- Fixing FOFT issues - Don't use fallback "serif" in font definition -,-
+- Fixing cross browser issues - commit (https://github.com/maliMirkec/hexo-sb/commit/c0ae8c6dc21e0aad55726ba26f10db5a9e480c82)
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
