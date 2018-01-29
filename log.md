@@ -151,6 +151,14 @@ Today's Progress:
 - Fixing FOFT issues - Don't use fallback "serif" in font definition -,-
 - Fixing cross browser issues - commit (https://github.com/maliMirkec/hexo-sb/commit/c0ae8c6dc21e0aad55726ba26f10db5a9e480c82)
 
+### Day 21: January 29, 2018 - [Starter Project]
+
+**Today's Progress**:
+
+- Adding support for multiple Critical CSS paths
+- Updating Gulp tasks
+- Updating config files - [commit](https://github.com/maliMirkec/starter-project/commit/610b56281ec1255984f1ef31d02ac15929795b0a)
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
