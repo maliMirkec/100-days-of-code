@@ -159,7 +159,15 @@ Today's Progress:
 - Updating Gulp tasks
 - Updating config files - [commit](https://github.com/maliMirkec/starter-project/commit/610b56281ec1255984f1ef31d02ac15929795b0a)
 
+### Day 22: January 30, 2018 - [Starter Project]
+
+**Today's Progress**:
+
+- Launching project website using Netlify and CloudFlare
+- Preview available here - [https://starter.silvestarbistrovic.from.hr](https://starter.silvestarbistrovic.from.hr)
+
 [Starter project]: https://www.npmjs.com/package/starter-project
+[Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
 [Custom navigation with pure CSS mobile toggle]: https://codepen.io/CiTA/full/mpYMJP
