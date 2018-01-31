@@ -166,6 +166,14 @@ Today's Progress:
 - Launching project website using Netlify and CloudFlare
 - Preview available here - [https://starter.silvestarbistrovic.from.hr](https://starter.silvestarbistrovic.from.hr)
 
+### Day 23: January 31, 2018 - [Starter Project]
+
+**Today's Progress**:
+
+- Updating postinstall script
+- Adding new gulp tasks for updating the configuration  - commit (https://github.com/maliMirkec/starter-project/commit/b80739e129740be5d84819f68eaa0ce46f7ec4ca)
+- [Starter Package Website](https://starter.silvestarbistrovic.from.hr)
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
