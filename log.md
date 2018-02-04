@@ -174,6 +174,22 @@ Today's Progress:
 - Adding new gulp tasks for updating the configuration  - commit (https://github.com/maliMirkec/starter-project/commit/b80739e129740be5d84819f68eaa0ce46f7ec4ca)
 - [Starter Package Website](https://starter.silvestarbistrovic.from.hr)
 
+### Day 24: February 01, 2018 - [Personal Website]
+
+**Today's Progress**:
+
+- Cross-browser testing
+- Releasing new redesign of personal blog - commit (https://github.com/maliMirkec/hexo-sb/commit/0af62d3ab89ad1a943052374324670c96c2be87c)
+- Live site: https://www.silvestarbistrovic.from.hr
+
+### Days 25,26,27: February 02-04, 2018 - [Personal Website], [Hexo theme SB]
+
+**Today's Progress**:
+
+- Polishing and updating Hexo theme
+- Updating theme on live site
+- Live site: https://www.silvestarbistrovic.from.hr
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
@@ -181,3 +197,4 @@ Today's Progress:
 [Custom navigation with pure CSS mobile toggle]: https://codepen.io/CiTA/full/mpYMJP
 [CiTA]: https://github.com/maliMirkec/cita
 [Personal Website Redesign]: https://feature-starter-project--silvestarbistrovic.netlify.com/
+[Personal Website]: https://www.silvestarbistrovic.from.hr
