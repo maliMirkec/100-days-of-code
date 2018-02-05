@@ -93,7 +93,7 @@
 - Updating Gulp tasks
 - Updating postinstall scripts - [commit](https://github.com/maliMirkec/starter-project/commit/2e5267cdf229807452751168addc9fe2f2902259)
 
-### Day 13: January 21, 2018 - [Hexo theme SB]
+### Day 13: January 21, 2018 - [Hexo Theme SB]
 
 **Today's Progress**:
 
@@ -101,13 +101,13 @@
 - Configuring project
 - Updating existing templates to pug - [commit](https://github.com/maliMirkec/hexo-theme-sb/commit/e7b41ebf745219c96791db6caf941db912ddafb4)
 
-### Day 14: January 22, 2018 - [Hexo theme SB]
+### Day 14: January 22, 2018 - [Hexo Theme SB]
 
 **Today's Progress**:
 
 - Updating and cleaning up templates - [commit](https://github.com/maliMirkec/hexo-theme-sb/commit/8a060e948d31ab66649f85adb8366a786c9892da)
 
-### Day 15 of #100DaysOfCode: January 23, 2018 - [Hexo theme SB]
+### Day 15 of #100DaysOfCode: January 23, 2018 - [Hexo Theme SB]
 
 Today's Progress:
 
@@ -182,7 +182,7 @@ Today's Progress:
 - Releasing new redesign of personal blog - commit (https://github.com/maliMirkec/hexo-sb/commit/0af62d3ab89ad1a943052374324670c96c2be87c)
 - Live site: https://www.silvestarbistrovic.from.hr
 
-### Days 25,26,27: February 02-04, 2018 - [Personal Website], [Hexo theme SB]
+### Days 25,26,27: February 02-04, 2018 - [Personal Website], [Hexo Theme SB]
 
 **Today's Progress**:
 
@@ -190,9 +190,15 @@ Today's Progress:
 - Updating theme on live site
 - Live site: https://www.silvestarbistrovic.from.hr
 
+### Days 28: February 05, 2018 - [Hexo Theme SB]
+
+**Today's Progress**:
+
+- Updating documentation and installation of Hexo Theme SB
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
-[Hexo theme SB]: https://github.com/maliMirkec/hexo-theme-sb
+[Hexo Theme SB]: https://github.com/maliMirkec/hexo-theme-sb
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
 [Custom navigation with pure CSS mobile toggle]: https://codepen.io/CiTA/full/mpYMJP
 [CiTA]: https://github.com/maliMirkec/cita
