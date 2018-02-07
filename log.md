@@ -203,6 +203,13 @@ Today's Progress:
 - Publishing official website for [Hexo Theme SB]
 - Live site: https://sbtheme.silvestarbistrovic.from.hr
 
+### Day 30: February 07, 2018
+
+**Today's Progress**:
+
+- Completed Blockchain and Bitcoin Fundamentals course on Udemy
+- Competed Lesson 1 on #CryptoZombies
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo Theme SB]: https://github.com/maliMirkec/hexo-theme-sb
