@@ -190,15 +190,23 @@ Today's Progress:
 - Updating theme on live site
 - Live site: https://www.silvestarbistrovic.from.hr
 
-### Days 28: February 05, 2018 - [Hexo Theme SB]
+### Day 28: February 05, 2018 - [Hexo Theme SB]
 
 **Today's Progress**:
 
 - Updating documentation and installation of Hexo Theme SB
 
+### Day 29: February 06, 2018 - [Hexo Theme SB Web]
+
+**Today's Progress**:
+
+- Publishing official website for [Hexo Theme SB]
+- Live site: https://sbtheme.silvestarbistrovic.from.hr
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo Theme SB]: https://github.com/maliMirkec/hexo-theme-sb
+[Hexo Theme SB Web]: https://sbtheme.silvestarbistrovic.from.hr
 [Skewing Web Template]: https://codepen.io/CiTA/full/rpdaZe/
 [Custom navigation with pure CSS mobile toggle]: https://codepen.io/CiTA/full/mpYMJP
 [CiTA]: https://github.com/maliMirkec/cita
