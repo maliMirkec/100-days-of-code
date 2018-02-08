@@ -208,7 +208,13 @@ Today's Progress:
 **Today's Progress**:
 
 - Completed Blockchain and Bitcoin Fundamentals course on Udemy
-- Competed Lesson 1 on #CryptoZombies
+- Completed Lesson 1 on #CryptoZombies
+
+### Day 31: February 08, 2018
+
+**Today's Progress**:
+
+- Completed Lesson 2 on #CryptoZombies
 
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
