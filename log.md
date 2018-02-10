@@ -222,6 +222,12 @@ Today's Progress:
 
 - Completed Lesson 3 on #CryptoZombies
 
+### Day 33: February 10, 2018
+
+**Today's Progress**:
+
+- Completed Lesson 4 on #CryptoZombies
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo Theme SB]: https://github.com/maliMirkec/hexo-theme-sb
