@@ -228,6 +228,14 @@ Today's Progress:
 
 - Completed Lesson 4 on #CryptoZombies
 
+### Day 34, 35: February 12-13, 2018 - WP Theme I&M
+
+**Today's Progress**:
+
+- Preparing for Wordpress Theme redesign
+- Updating file architecture
+- Starting with new Wordpress Theme development
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo Theme SB]: https://github.com/maliMirkec/hexo-theme-sb
