@@ -236,6 +236,14 @@ Today's Progress:
 - Updating file architecture
 - Starting with new Wordpress Theme development
 
+### Day 36: February 14, 2018 - WP Theme I&M
+
+**Today's Progress**:
+
+- Installing [Starter Project]
+- Configuring [Starter Project]
+- Fixing Wordpress Theme bugs
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo Theme SB]: https://github.com/maliMirkec/hexo-theme-sb
