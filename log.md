@@ -244,6 +244,15 @@ Today's Progress:
 - Configuring [Starter Project]
 - Fixing Wordpress Theme bugs
 
+### Days 37-42: February 14-20, 2018 - WP Theme I&M
+
+**Today's Progress**:
+
+- Creating 2 new pages
+- Creating a header with responsive navigation
+- Creating a responsive footer
+- Creating a demo site
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo Theme SB]: https://github.com/maliMirkec/hexo-theme-sb
