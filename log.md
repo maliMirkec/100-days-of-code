@@ -253,6 +253,14 @@ Today's Progress:
 - Creating a responsive footer
 - Creating a demo site
 
+### Days 43-45: February 22-24, 2018 - WP Theme I&M
+
+**Today's Progress**:
+
+- Creating Contact page
+- Adding responsiveness
+- Styling form
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo Theme SB]: https://github.com/maliMirkec/hexo-theme-sb
