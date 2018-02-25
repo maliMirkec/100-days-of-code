@@ -261,6 +261,14 @@ Today's Progress:
 - Adding responsiveness
 - Styling form
 
+### Day 46: February 25, 2018 - [Starter project]
+
+**Today's Progress**:
+
+- Updating Gulp tasks
+- Updating Sass
+- Updating project architecture
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo Theme SB]: https://github.com/maliMirkec/hexo-theme-sb
