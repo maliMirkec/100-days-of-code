@@ -269,6 +269,13 @@ Today's Progress:
 - Updating Sass
 - Updating project architecture
 
+### Day 47: February 26, 2018 - [Hexo Theme SB Web]
+
+**Today's Progress**:
+
+- Updating blog theme
+- Updating theme's website
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo Theme SB]: https://github.com/maliMirkec/hexo-theme-sb
