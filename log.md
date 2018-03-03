@@ -276,6 +276,8 @@ Today's Progress:
 - Updating blog theme
 - Updating theme's website
 
+### FAIL!!!
+
 [Starter project]: https://www.npmjs.com/package/starter-project
 [Starter project web]: https://starter.silvestarbistrovic.from.hr
 [Hexo Theme SB]: https://github.com/maliMirkec/hexo-theme-sb
